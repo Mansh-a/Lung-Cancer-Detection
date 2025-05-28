@@ -4,29 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Lung Cancer Detection</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      background: #f5f5f5;
-      margin: 0;
-      padding: 20px;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-    code {
-      background: #eaeaea;
-      padding: 2px 4px;
-      border-radius: 3px;
-    }
-    pre {
-      background: #eaeaea;
-      padding: 10px;
-      overflow-x: auto;
-    }
-  </style>
+  
 </head>
 <body>
 
