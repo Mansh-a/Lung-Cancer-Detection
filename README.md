@@ -16,9 +16,8 @@
 .
 ├── Lung_cancer(SVC).ipynb                     # SVC model implementation
 ├── Lung_cancer_detection(LOGITIC).ipynb       # Logistic Regression implementation
-├── FeatureExtraction_Visuals.ipynb            # Visual exploration of data
-├── lung_dataSet                               # (Includes the images)
-└── README.html                                # This documentation file
+├── FeatureExtraction_Visuals.ipynb            # Visual exploration of data                             
+└── README.md                                  # This documentation file
   </pre>
 
   <h2>🔍 Project Overview</h2>
